@@ -16,3 +16,5 @@ Rebasa interactivamente para modificar el historial de commits (reordenar, combi
 
 git reset --hard [commit-id]
 Deshace todos los cambios hasta el commit especificado, tanto en el directorio de trabajo como en el historial de commits. ¡Ten cuidado con esto, ya que es irreversible!
+
+![image](https://github.com/user-attachments/assets/469e13e9-75eb-4c35-9a9a-40588bcb3358)
